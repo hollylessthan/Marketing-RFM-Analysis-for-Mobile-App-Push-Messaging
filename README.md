@@ -16,4 +16,4 @@ In this project, I used RFM analysis, a common marketing method, to evaluate and
 6. evaluated the actual performance
 
 #### Result
-Based on independent RFM and sequential RFM, the projected profit and ROME is significently greater than those if sending the message to all customers without targeting.
+Based on independent RFM and sequential RFM, the projected profit and ROME is significently greater than those if sending the message to all customers without targeting. Please see the .py file for more of the analysis result.
